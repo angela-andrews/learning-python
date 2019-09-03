@@ -14,11 +14,14 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 8:](../master/ex8.py) Printing, Printing
 * [Exercise 9:](../master/ex9.py) Printing, Printing, Printing
 * [Exercise 10:](../master/ex10.py) Escaping 
-* Exercise 11: Asking Questions aka getting input from the user
-* Exercise 12: Prompting People
-* Exercise 13: Parameters, Unpacking and Variables
-* Exercise 14: Prompting and Passing
+* [Exercise 11:](../master/ex11.py)Asking Questions aka getting input from the user
+* [Exercise 12:](../master/ex12.py) Prompting People
+* [Exercise 13:](../master/ex13.py) Parameters, Unpacking and Variables
+* [Exercise 13 drill:](../master/ex13drill.py) Study drill for using argv and import
+* [Exercise 14:](../master/ex14.py) Prompting and Passing
 * Exercise 15: Reading Files
 * Exercise 16: Reading and Writing Files
 * Exercise 17: More Files
+
+
 My blog has been dormant, but here is the [link](https://learningtowebdevblog.wordpress.com/)
