@@ -10,10 +10,10 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 4:](../blob/master/ex4.py) Variables and Names
 * [Exercise 5:](../blob/master/ex5.py) More Variable and Printing
 * [Exercise 6:](../blob/master/ex6.py) Strings and Text
-* Exercise 7: More Printing
-* Exercise 8: Printing, Printing
-* Exercise 9: Printing, Printing, Printing
-* Exercise 10: Escaping 
+* [Exercise 7:](../blob/master/ex7.py) More Printing
+* [Exercise 8:](../blob/master/ex8.py) Printing, Printing
+* [Exercise 9:](../blob/master/ex9.py) Printing, Printing, Printing
+* [Exercise 10:](../blob/master/ex10.py) Escaping 
 * Exercise 11: Asking Questions aka getting input from the user
 * Exercise 12: Prompting People
 * Exercise 13: Parameters, Unpacking and Variables
