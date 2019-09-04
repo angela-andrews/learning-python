@@ -9,4 +9,4 @@ name = input()
 print(f"Your name is {name} and your favorite color is: ",color)
 print("You just ran the script called ", script)
 
-
+# all input comes in as a string
