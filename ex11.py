@@ -1,7 +1,7 @@
 # input
 # end = ' ' tell print not to end the line with a newline character and go to the next line
 print("How old are you?", end=' ')
-age = input()
+age = int(input())
 print("How tall are you?", end=' ')
 height = input()
 print("How much do you weight?", end=' ')
