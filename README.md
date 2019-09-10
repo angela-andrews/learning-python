@@ -21,8 +21,14 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 14:](../master/ex14.py) Prompting and Passing
 * [Exercise 15:](../master/ex15.py) Reading Files
 * [Exercise 15 drill:](../master/ex15drill.py) Reading Files
-* Exercise 16: Reading and Writing Files
-* Exercise 17: More Files
+* [Exercise 16: ](../master/ex16.py)Reading and Writing Files
+* [Exercise 16 drill: ](../master/ex16drill.py)Study Drill w/ Reading and Files
+* [Exercise 17: ](../master/ex17.py) More Files
+* [Exercise 18: ](../master/ex18.py) Names, Variables, Code, Functions
+* [Exercise 19: ](../master/ex19.py) Functions and Variables
+* [Exercise 20: ](../master/ex20.py) Functions and Files
+
+
 
 
 My blog has been dormant, but here is the [link](https://learningtowebdevblog.wordpress.com/)
