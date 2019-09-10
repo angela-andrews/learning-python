@@ -20,6 +20,7 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 13 drill:](../master/ex13drill.py) Study drill for using argv and import
 * [Exercise 14:](../master/ex14.py) Prompting and Passing
 * [Exercise 15:](../master/ex15.py) Reading Files
+* [Exercise 15 drill:](../master/ex15drill.py) Reading Files
 * Exercise 16: Reading and Writing Files
 * Exercise 17: More Files
 
