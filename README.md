@@ -27,6 +27,12 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 18: ](../master/ex18.py) Names, Variables, Code, Functions
 * [Exercise 19: ](../master/ex19.py) Functions and Variables
 * [Exercise 20: ](../master/ex20.py) Functions and Files
+* [Exercise 21: ](../master/ex21.py) Functions can return something
+* [Exercise 22: ](../master/ex22.md) What do you know so far? **self-quiz**
+* [Exercise 23: ](../master/ex23.py) Strings, Bytes and Character Encodings
+* [Exercise 24: ](../master/ex24.py) More Practice
+* [Exercise 25: ](../master/ex25.py) Even More Practice
+
 
 
 
