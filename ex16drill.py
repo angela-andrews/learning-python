@@ -23,7 +23,7 @@ newLine = '\n'
 #wrong
 #target.write(line1.format('\n') + line2.format('\n') + line3.format('\n'))
 
-#target.write(line1 + newLine + line2 + newLine + line3)
+target.write(line1 + newLine + line2 + newLine + line3)
 
 target.close()
 #print(f"{line1}\n{line2}\n{line3}\n")
