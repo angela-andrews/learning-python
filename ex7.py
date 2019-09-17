@@ -21,7 +21,7 @@ end12 = "r"
 
 # watch  that command at the end. Try removing it to see what happens
 # removed the comma and it caused a syntax error
-# the end = ' ' will put a space in the string
+# the end = ' ' will put a space in the string by assigning a space to the variable called, end.
 # the comma will put the next print statement on the same line.
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
 print(end7 + end8 + end9 + end10 + end11 + end12)
