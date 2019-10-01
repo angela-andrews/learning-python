@@ -2,6 +2,8 @@
 
 # download a text file called languages.txt(https://
 #learnpythonthehardway.org/python3/languages.txt) 
+# to run:
+# python utf-8 languages.txt
 
 import sys
 #sys.stdout.write("utf-8")
