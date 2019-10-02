@@ -32,6 +32,7 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 23: ](../master/ex23.py) Strings, Bytes and Character Encodings
 * [Exercise 24: ](../master/ex24.py) More Practice
 * [Exercise 25: ](../master/ex25.py) Even More Practice
+* [Exercise 26: ](../master/ex26.py) Troubleshooting Test
 
 
 
