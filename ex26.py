@@ -1,3 +1,7 @@
+# Debugging exercise
+# Don't forget the filename argument when you run the script.
+# python ex26.py ex26textfile.txt
+
 print("How old are you?", end=' ')
 age = input()
 print("How tall are you?", end=' ')
@@ -12,8 +16,9 @@ script, filename = argv
 
 txt = open(filename)
 
-print("Here's your file {filename}:")
+print(f"Here's your file {filename}:")
 print(txt.read())
+txt.close()
 
 print("Type the filename again:")
 file_again = input("> ")
@@ -21,7 +26,7 @@ file_again = input("> ")
 txt_again = open(file_again)
 
 print(txt_again.read())
-
+txt_again.close()
 
 print("Let's practice everything.")
 print("You\'d need to know \'bout escapes \

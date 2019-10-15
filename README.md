@@ -32,7 +32,13 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 23: ](../master/ex23.py) Strings, Bytes and Character Encodings
 * [Exercise 24: ](../master/ex24.py) More Practice
 * [Exercise 25: ](../master/ex25.py) Even More Practice
-* [Exercise 26: ](../master/ex26.py) Troubleshooting Test
+* [Exercise 26: ](../master/ex26.py) Troubleshooting Test, plenty of debugging
+* [Exercise 27: ](../master/ex27.md) Memorizng Logic 
+* [Exercise 28: ](../master/ex28.md) Boolean Practice
+* [Exercise 29: ](../master/ex29.py) What If
+* [Exercise 30: ](../master/ex30.py) Else If
+* [Exercise 31: ](../master/ex31.py) Making Decisions 
+* [Exercise 32: ](../master/ex32.py) Loops and Lists 
 
 
 
