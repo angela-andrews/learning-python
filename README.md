@@ -39,6 +39,7 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 30: ](../master/ex30.py) Else If
 * [Exercise 31: ](../master/ex31.py) Making Decisions 
 * [Exercise 32: ](../master/ex32.py) Loops and Lists 
+* [Exercise 33: ](../master/ex33.py) While Loops
 
 
 
