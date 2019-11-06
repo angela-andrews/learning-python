@@ -62,6 +62,7 @@ elements2 = []
 elements2 = list(range(6))
 print(elements2)
 
+# =======================Notes========================
 # list is another sequence type
 # list([iterable])  see above
 # make a list different ways
@@ -70,3 +71,16 @@ print(elements2)
 # [a,b,c] assign values to a list. strings in quotes 
 # list comprehension 
 # type constructor list() or list(iterable)
+# https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
+# https://www.datacamp.com/community/tutorials/python-list-comprehension
+# https://www.geeksforgeeks.org/reduce-in-python/
+ # https://www.geeksforgeeks.org/filter-in-python/
+# https://www.geeksforgeeks.org/python-map-function/
+# jupyter-lab 
+# instead jupyter-notebook 
+ # Python map() function
+#map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)
+
+#Syntax :
+
+#map(fun, iter)
