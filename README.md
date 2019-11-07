@@ -39,7 +39,11 @@ I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at
 * [Exercise 30: ](../master/ex30.py) Else If
 * [Exercise 31: ](../master/ex31.py) Making Decisions 
 * [Exercise 32: ](../master/ex32.py) Loops and Lists 
-* [Exercise 33: ](../master/ex33.py) While Loops
+* [Exercise 33: ](../master/ex33.py) Accessing Elements of Lists
+* [Exercise 35: ](../master/ex35.py) Branched and Functions
+* [Exercise 36: ](../master/ex36.py) Designing and Debugging
+* [Exercise 37: ](../master/ex37.py) Symbol Review
+* [Exercise 38: ](../master/ex38.py) Doing things to Lists
 
 
 
