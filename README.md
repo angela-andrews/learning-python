@@ -1,8 +1,8 @@
 # Learn Python the Hard Way
  
-Working my way through Learning Python the Hard Way with will62185
+Working my way through Learning Python the Hard Way with [@will62185](https://github.com/will62185)
 
-I'm currently using Python 3.6.8 at Home and I'm sure other versions are used at work and other machines
+I'm currently using Python 3.7.5 ~~3.6.8~~ at home and I'm sure other versions are used at work and on other machines.
 
 * [Exercise 1:](../master/ex1.py) Intro to the print function
 * [Exercise 2:](../master/ex2.py) Comments
