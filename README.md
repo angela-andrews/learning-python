@@ -45,6 +45,7 @@ I'm currently using Python 3.7.5 ~~3.6.8~~ at home and I'm sure other versions a
 * [Exercise 36: ](../master/ex36.py) Designing and Debugging
 * [Exercise 37: ](../master/ex37.py) Symbol Review
 * [Exercise 38: ](../master/ex38.py) Doing things to Lists
+* [Exercise 39: ](../master/ex39.py) Dictionaries, Oh Lovely Dictionaries
 
 
 

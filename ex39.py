@@ -129,7 +129,37 @@ print('*' * 30)
 # dict() constructor builds dictionaries directly from sequences of key-value pairs:
 myCurrentFaves = dict([('book', 'Blue Moon'),('audioboook', 'Fever Dream'), ('song', 'Money')])
 print(myCurrentFaves)
-dashes = '=' * 25
+dashes = '=' * 15
 print(f'{dashes}Looping a dict{dashes}')
 for key, value in myCurrentFaves.items():
     print(f'The key is: "{key}" : The value is: "{value}"')
+
+# adding some list looping in here 
+# you can loop through a list and pull out both the index and the value using enumerate()
+print(f'{dashes}Using enumerate to loop a list & get the index{dashes}')
+for index, value in enumerate(['pillow', 'satin bonnet', 'toothbrush', 'eye mask']):
+    print(index, value)
+niteNite = ['pillow', 'satin bonnet', 'toothbrush', 'eye mask']
+print(f'{dashes}Using enumerate by name of list{dashes}')
+for index, value in enumerate(niteNite):
+    print(index, value)
+print(f'{dashes}Looping over 2 lists with zip {dashes}')
+
+print(f'{dashes}create a dictionary from 2 lists{dashes}')
+main = ['salmon', 'steak', 'black beans', 'meatballs']
+side = ['broccoli', 'baked potato', 'rice', 'spaghetti']
+meal= {}
+for m, s in zip(main, side):
+    print(f'I like {s} with my {m}.')
+    meal[m]=s
+
+print(f'My dict from 2 lists \n{meal}')
+
+print(f'{dashes}testing out collections.OrderedDict{dashes}')
+# Ordered dictionaries are just like regular dictionaries but they remember the order that items were inserted. When iterating over an ordered dictionary, the items are returned in the order their keys were first added.
+# best explaination of key=lambda
+#https://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
+from collections import OrderedDict
+# sort by key
+meals = OrderedDict(sorted(meal.items(), key=lambda m: m[0]))
+print(meals)
