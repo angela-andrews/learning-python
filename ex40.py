@@ -8,3 +8,8 @@ import mystuff
 # # get x from y
 # print(mystuff['apples'])
 mystuff.apple()
+print(mystuff.tangerine)
+
+
+
+
