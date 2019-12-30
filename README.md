@@ -46,8 +46,9 @@ I'm currently using Python 3.7.5 ~~3.6.8~~ at home and I'm sure other versions a
 * [Exercise 37: ](../master/ex37.py) Symbol Review
 * [Exercise 38: ](../master/ex38.py) Doing things to Lists
 * [Exercise 39: ](../master/ex39.py) Dictionaries, Oh Lovely Dictionaries
-* [Exercise 40: ](../master/ex40.py) Modules, classes and objects
+* [Exercise 40b: ](../master/ex40b.py) Modules, classes and objects
 * [Exercise 40a: ](../master/ex40a.py) My first class
+* [Exercise 40: ](../master/ex40a.py) My second class
 
 
 

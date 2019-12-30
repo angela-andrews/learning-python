@@ -4,7 +4,7 @@
 class MyStuff(object):
 
     def __init__(self):
-        self.tangerine = "And now a thousand years between"
+        self.tangerine = "I do my hair toss. Check my nails, Baby how you feeling?"
     # apple function
     def apple(self):
         print("I am classy apples!")
@@ -13,9 +13,12 @@ class MyStuff(object):
 
 # You create a class by calling the class like it's a function like this:
 
+# 3) class style
 thing = MyStuff() # an object created from the MyStuff class.
 thing.apple #prints "A am classy apples"
 print(thing.tangerine) # since tangerine is a var in the class, you can use dot notaion to print the variable.
+
+
 
 
 
