@@ -49,6 +49,8 @@ I'm currently using Python 3.7.5 ~~3.6.8~~ at home and I'm sure other versions a
 * [Exercise 40b: ](../master/ex40b.py) Modules, classes and objects
 * [Exercise 40a: ](../master/ex40a.py) My first class
 * [Exercise 40: ](../master/ex40a.py) My second class
+* [Exercise 41: ](../master/ex41.py) A reading test
+* [Exercise 42: ](../master/ex42.py) Is-A, Has-A Objects and Classes
 
 
 
