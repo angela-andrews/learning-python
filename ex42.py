@@ -12,6 +12,7 @@ class Dog(Animal):
     def __init__(self, name):
         ## dog has-a name
         self.name = name
+    
 
 ## Cat is-a Animal
 class Cat(Animal):
@@ -19,6 +20,8 @@ class Cat(Animal):
     def __init__(self, name):
         ## cat has-a name
         self.name = name
+    
+   
 
 ## Person is-a object
 class Person(object):
@@ -33,10 +36,10 @@ class Person(object):
 class Employee(Person):
 
     def __init__(self, name, salary):
-        ## ???
+        ## epmployee is-a child of person and is using super to gain access to the __init__ method of the parent class to have access to name
         super(Employee, self).__init__(name)
         ## Employee has-a salary
-        self.salar = salary
+        self.salary = salary
 
 ## Fish is-a object
 class Fish(object):
@@ -57,7 +60,7 @@ rover = Dog("Rover")
 satan = Cat('Satan')
 
 ## mary is a person
-mary = Person("Mary)
+mary = Person("Mary")
 
 
 ## mary has-a pet
@@ -77,3 +80,5 @@ crouse = Salmon()
 
 ## harry is-a Halibut
 harry = Halibut()
+
+# https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3
